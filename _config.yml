@@ -1,0 +1,28 @@
+name: jonah
+favicon: null
+layout_spectrum: 0.41880746535025537
+typography_spectrum: 0.7263547987677157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6898028505966067
+  lightness: 0.7136005961801857
+  saturation: 0.6686243703588843
+  rhythmicContrast: 0.7025383831933141
+purpose: []
